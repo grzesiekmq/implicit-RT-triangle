@@ -1,0 +1,18 @@
+# Setup
+title:        rgn js
+tagline:      racing game library starter and editor based on Three.js (port from c#)
+
+baseurl:      "/gh-rgn-js"
+paginate:     1
+locale:       "en"
+
+# About/contact
+author:
+  name:       grzesiekmq
+  url:        
+
+
+
+#Others
+markdown: kramdown
+theme: jekyll-theme-cayman
