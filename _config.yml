@@ -1,6 +1,6 @@
 # Setup
-title:        rgn js
-tagline:      racing game library starter and editor based on Three.js (port from c#)
+title:        implicit-RT-triangle
+tagline:      implicit-RT-triangle
 
 baseurl:      "/gh-rgn-js"
 paginate:     1
